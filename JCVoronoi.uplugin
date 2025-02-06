@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "JCVoronoi",
+	"Description": "A fast 2D voronoi diagram generator",
+	"Category": "Runtime",
+	"CreatedBy": "Feral Cat Den, LLC",
+	"CreatedByURL": "https://github.com/JCash/voronoi",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "JCVoronoi",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
